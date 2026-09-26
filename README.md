@@ -1,5 +1,5 @@
 # Data Analysis Set C - Training Performance
-**Student name:** YOUR NAME  |  **Student ID:** YOUR-STUDENT-ID  |  **Assigned set:** Set C
+**Student name:** Janavi Gol  |  **Student ID:** 11277 |  **Assigned set:** Set C
 Red & White Skill Education - Practical Exam (Data Analysis)
 
 > All work in this repository is my own except where cited.
