@@ -6,3 +6,7 @@
 5. (1:15) Python: run `python python/analysis.py`, show merge assertion, pass_flag line, lowest pass-rate course (1/3), chart.
 6. (1:30) Power BI: show Pass Rate DAX, click Weekend slicer (4 / 56.25 / 50.00%), clear it.
 7. (1:00) Findings: Technology 56.00 vs Business 67.00; Python 1/3 = 33.33%; recommendation; limitation; repo structure.
+
+Click Here to Show Explaination : 
+
+"https://drive.google.com/file/d/15yMqE2337_kcHTrzErprEH1Zkk6QmwHq/view?usp=sharing"
